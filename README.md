@@ -1,3 +1,3 @@
 # FluidSim
 A half-working fluid simulator made in react.
-This project is incomplete, but I want to submit a version before I rewrite the codebase.
+This project is incomplete, this is just a major update to backup the code.
